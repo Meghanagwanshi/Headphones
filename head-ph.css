@@ -1,0 +1,266 @@
+li{
+    color: white;
+    padding-left: 20px;
+    padding-right: 10px;
+    font-size: 12px;
+}
+
+.icons{
+   
+    position: fixed;
+    top: 150px;
+    right: 0%;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.icons a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 14px;
+    font-family: 'oswald',sans-serif;
+    margin: 6px;
+    border-radius: 10px  0px  0px 10px;
+    transform: translate(150px,0px);
+    transition: all 0.5s;
+   
+}
+.icons a:hover{
+    transform: translate(0px,0px);
+}
+
+.icons a i{
+    margin: 5px;
+    margin-right: 15px;
+}
+.n1{
+    background-color: black;
+    color: white;
+    opacity: 0.6;
+
+}
+.n2{
+    background-color: black;
+    color: white;
+    opacity: 0.6;
+}
+.carousel-caption{
+    text-align: start;
+    padding-bottom: 200px;
+    padding-right: 600px;
+    padding-top: 500px;
+}
+
+.c1{
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.c2{
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.c20{
+    border: 1px solid black;
+}
+
+.c3{
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    padding-left: 15px;
+    font-weight: 500;
+    height: 30px;
+    width:180px;
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.c4{
+    border: 2px solid white;
+    color: white;
+    font-size: 12px;
+    margin-left: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.c01{
+    border: 2px solid #43cbcd;
+    color: #43cbcd;
+    font-size: 14px;
+    padding: 10px;
+
+}
+.c5{
+    padding-left: 250px;
+    padding-top: 100px;
+}
+
+#s2{
+    padding-top: 150px;
+}
+.c6{
+    font-size: 35px;
+}
+.c7{
+    font-size: 18px;
+}
+.c8{
+    font-size: 14px;
+}
+.c9{
+    padding-top: 150px;
+}
+#s3{
+    padding-right: 110px;
+    padding-top: 150px;
+    padding-left: 250px;
+}
+.c10{
+    padding-top: 100px;
+}
+#s4{
+    background-color: #46eff0;
+    margin-top: 110px;
+}
+.c11{
+    padding-top: 100px;
+}
+
+.c12{
+    text-align: end;
+}
+.c13{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 100px;
+}
+#s5{
+    padding-left: 200px;
+    padding-top: 110px;
+    padding-right: 100px;
+}
+.c15{
+    background-color: #A78A73;
+    padding-left: 70px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 70px;
+    color: white;
+}
+.c16{
+    background: url(assets1/headph16.jpg);
+    background-size: cover;
+}
+#s6{
+    margin-top: 110px;
+}
+.c17{
+    background: url(assets1/headph18.jpg);
+    background-size: cover;
+    padding-left: 200px;
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+#s7{
+    padding-top: 110px;
+    padding-right: 110px;
+    padding-bottom: 110px;
+   
+}
+.c18{
+    font-size: 14px;
+}
+.c19{
+    font-size: 13px;
+}
+.c21{
+    height: 100px;
+    width: 100px;
+}
+.c22{
+    padding-left: 240px;
+}
+.c23{
+    padding-left: 200px;
+}
+.c24{
+    padding-right: 50px;
+    padding-left: 0px;
+}
+.c25{
+    background-color: #47df84;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.c26{
+    height: 212px;
+    width: 212px;
+}
+#s8{
+    padding-top: 110px;
+    padding-left: 150px;
+    padding-right: 100px;
+}
+.c27{
+    font-size: 14px;
+}
+.c28{
+    font-size: 14px;
+    padding-left: 20px;
+    color: #848484;
+}
+.c29{
+    font-size: 16px;
+    padding-left: 20px;
+    color: black;
+}
+.c30{
+    padding-left: 40px;
+}
+.c31{
+    border: 2px solid #43cbcd;
+    color: #43cbcd;
+    font-size: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+footer{
+    background-color: #f6f6f6;
+    padding-top: 90px;
+    margin-top: 110px;
+}
+.c33{
+    color: #707070;
+    font: 13px;
+    padding: 0px;
+}
+.c34{
+    padding-left: 50px;
+}
+.c35{
+    font-size: 14px;
+    color: black;
+}
+.c36{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    color: #707070;
+    font-size: 13px;
+    padding-bottom: 50px;
+}
